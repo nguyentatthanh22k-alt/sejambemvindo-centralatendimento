@@ -1,0 +1,20 @@
+SITE INSTITUCIONAL — 69.789.389 Pedro Henrique dos Santos
+
+Arquivos:
+- index.html: página principal
+- sobre.html: informações institucionais
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- styles.css: estilos personalizados
+- assets/: imagens fornecidas e otimizadas
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets mantendo a mesma estrutura para sua hospedagem.
+
+Observações importantes:
+- Bootstrap 5.3.3 e Bootstrap Icons são carregados via CDN, então a conexão com a internet é necessária para esses recursos.
+- O site não contém formulário próprio; os botões de contato direcionam para WhatsApp, telefone e e-mail.
+- Revise os textos legais conforme o funcionamento real da empresa e confirme os dados cadastrais antes da publicação.
+- Para Google Ads, revise a página final, destino do anúncio, política de privacidade, informações de contato e eventuais requisitos aplicáveis antes de publicar. O site por si só não garante aprovação de anúncios.
